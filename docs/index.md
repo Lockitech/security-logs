@@ -1,10 +1,10 @@
 ---
 title: "Homepage"
-permalink: index.html
+permalink: findex.html
 type: homepage
 class: first
 
 
 ---
 
-This is my homepage!
+The quick brown fox jumped over the lazy dog! #NUSSU
