@@ -1,6 +1,6 @@
 ---
 title: "Homepage"
-permalink: findex.html
+permalink: index.html
 type: homepage
 class: first
 
